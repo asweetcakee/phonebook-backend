@@ -6,12 +6,14 @@ The application is deployed on **Render** and serves both:
 
 ## Links
 **Backend (and frontend static build) deployed at:**
+[Deployed App on Render]()
 
 **Main repository:**
-- [Part 3 Phonebook Project]https://github.com/asweetcakee/webdev/tree/fullstackopen/part3/phonebook
-- [Full Project Root]https://github.com/asweetcakee/webdev/tree/fullstackopen/
+- [Part 3 Phonebook Project](https://github.com/asweetcakee/webdev/tree/fullstackopen/part3/phonebook)
+- [Full Project Root](https://github.com/asweetcakee/webdev/tree/fullstackopen/)
 
 ## Clone and run locally
+Bash
 ```bash
 git clone https://github.com/asweetcakee/phonebook-backend.git
 cd phonebook-backend
